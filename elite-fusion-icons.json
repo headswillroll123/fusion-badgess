@@ -1,0 +1,54 @@
+[
+  {
+    "name": "REMUX",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/remux.png"
+  },
+  {
+    "name": "Blu-ray Disc",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/blu_ray_disc.png"
+  },
+  {
+    "name": "WEB-DL",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/WEBDL_transparent_4x.png"
+  },
+  {
+    "name": "WEBRip",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/WEBRip_transparent_4x.png"
+  },
+  {
+    "name": "HDTV",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/HDTV_transparent_4x.png"
+  },
+  {
+    "name": "4K Ultra HD",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/4k_ultra_hd.png"
+  },
+  {
+    "name": "Dolby Vision",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/dolby_vision.png"
+  },
+  {
+    "name": "HDR10+",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10_plus.png"
+  },
+  {
+    "name": "HDR10",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10.png"
+  },
+  {
+    "name": "IMAX Enhanced",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/imax_enhanced.png"
+  },
+  {
+    "name": "HEVC",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/HEVC_transparent_4x.png"
+  },
+  {
+    "name": "Dolby Atmos",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/dolby_atmos.png"
+  },
+  {
+    "name": "DTS:X",
+    "url": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/dts_x.png"
+  }
+]
